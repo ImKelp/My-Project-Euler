@@ -9,5 +9,5 @@ The motivation for starting Project Euler, and its continuation, is to provide a
 This is just a place for me to store and be proud of the problems I solved. Furthermore, it also serves the purpose of helping me keep track of my progress, both in maths and in computer programming.
 
 ## Disclaimer
-The solution to each problem is verified using pre-existing katas on [Codewars](codewars.com)
+The solution to each problem is verified using pre-existing katas on [Codewars](https://www.codewars.com)
 
